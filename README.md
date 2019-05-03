@@ -1,2 +1,2 @@
 # EDPR-Application
-These are code samples from my Data Science Lab that I have participated and contributed to. This repository is meant for review for potential future interviewers at EDP Renewables.
+These are code samples from my Data Science Lab and my Data Science Principles Classes that I have participated and contributed to. This repository is meant for review for potential future interviewers at EDP Renewables to get a grasp of what I've been doing so far with regards to Data Pattern Recognition in Python, considering the type of Data analysis project that I would work on at EDPR.
